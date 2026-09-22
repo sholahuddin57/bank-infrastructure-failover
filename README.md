@@ -1,7 +1,6 @@
+# 🏦 High-Availability Bank Infrastructure: Zero-Downtime Load Balancing
 # bank-infrastructure-failover
 Enterprise-grade high availability architecture using Docker and Nginx.
-
-# 🏦 High-Availability Bank Infrastructure: Zero-Downtime Load Balancing
 
 ### 📌 Project Objective
 Simulating an enterprise-grade IT infrastructure for a banking application that requires **99.9% uptime**. The goal is to build a robust architecture capable of handling high traffic and automatically surviving unexpected server crashes without disrupting the user experience (Zero-Downtime).
